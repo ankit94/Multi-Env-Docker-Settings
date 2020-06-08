@@ -1,0 +1,23 @@
+django==3.0.6
+
+#Configuration
+# django-environ==0.4.5
+# whitenoise==5.1.0
+#
+# #Modelsdcoker
+# django-model-utils==4.0.0
+#
+# #Images
+# Pillow==7.1.2
+#
+# Password storage
+# argon2-cffi==20.1.0
+#
+#Python-PostgreSQL Database Adapter
+psycopg2==2.8.5
+
+#Unicode Slugification
+#awesome-slugify==1.6.5
+
+#Timezone support
+# pytz==2020.1

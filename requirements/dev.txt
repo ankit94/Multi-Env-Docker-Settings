@@ -1,0 +1,5 @@
+-r test.txt
+-r production.txt
+
+django-extensions==2.2.9
+ipdb==0.13.2
